@@ -24987,7 +24987,7 @@ local tbl =
 					},
 				},
 			},
-			enabled = true,
+			enabled = false,
 			eventType = 1,
 			execute = "",
 			executeType = 1,
